@@ -1,5 +1,5 @@
 #######################################
- Primeiros Passos com Plone
+ Curso Plone IFPR com buildout da Simples Consultoria
 #######################################
 
 Este é o buildout utilizado durante o Hangout on Air `"Primeiros 
