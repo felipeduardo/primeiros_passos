@@ -28,7 +28,5 @@ parts/
 dist/
 var/
 
-
-
 # OSX
 .DS_Store
