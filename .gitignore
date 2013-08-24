@@ -18,6 +18,7 @@
 .svn/
 .project
 .pydevproject
+.python-version
 bin/
 build/
 develop-eggs/
@@ -27,6 +28,7 @@ fake-eggs/
 parts/
 dist/
 var/
+src/
 
 # OSX
 .DS_Store
